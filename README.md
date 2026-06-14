@@ -16,7 +16,6 @@ This project is built using a no-code/low-code platform (Lovable) and focuses on
 <img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/39db03ef-91e8-4068-927b-7130cdfe95b5" />
 <img width="1361" height="561" alt="image" src="https://github.com/user-attachments/assets/42898cf8-9011-40ee-a29d-cbbccb446068" />
 <img width="1327" height="648" alt="image" src="https://github.com/user-attachments/assets/86f93b93-d1a9-414d-ade8-eebe8b286438" />
-<img width="1327" height="648" alt="image" src="https://github.com/user-attachments/assets/70b04592-8f5f-4aaf-b4c4-d9d439bf0ca9" />
 
 
 🚀 Features
@@ -36,8 +35,7 @@ Hosting: Lovable deployment
 The goal of Doctor Hubb is to reduce the gap between patients and doctors by providing a digital platform where healthcare services can be accessed easily from anywhere.
 
 📂 Project Structure
-
-Since this project is generated using Lovable, the structure is managed automatically, but generally includes:
+Since this project is generated  the structure is managed automatically, but generally includes:
 
 Home Page
 Doctor Listing Page
