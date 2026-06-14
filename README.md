@@ -43,10 +43,6 @@ Home Page
 Doctor Listing Page
 Appointment Booking System
 User Dashboard
-
-Just open the live link:
-👉 https://doctor-hubb.lovable.app/
-
 👨‍💻 Developer
 Created using Lovable AI Platform
 Custom project: Doctor Hubb
