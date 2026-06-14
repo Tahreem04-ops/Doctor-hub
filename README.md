@@ -7,6 +7,7 @@ Live Project: https://doctor-hubb.lovable.app/
 Doctor Hubb is a modern healthcare web application designed to simplify the process of connecting patients with doctors. The platform allows users to easily book appointments, manage consultations, and access healthcare services online in a fast and user-friendly way.
 
 This project is built using a no-code/low-code platform (Lovable) and focuses on providing a clean UI and smooth user experience for healthcare management.
+
 📷 Screenshots
 <img width="1354" height="687" alt="image" src="https://github.com/user-attachments/assets/b6dd9df4-7979-4ffd-aa0a-c5e912ccd6a0" />
 <img width="1364" height="688" alt="image" src="https://github.com/user-attachments/assets/18bcc3ef-320c-4a55-8a52-4052385d19cf" />
