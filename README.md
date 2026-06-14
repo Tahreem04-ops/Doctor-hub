@@ -13,9 +13,11 @@ This project is built using a no-code/low-code platform (Lovable) and focuses on
 <img width="1363" height="644" alt="image" src="https://github.com/user-attachments/assets/0ceaf90b-9a6c-4b11-bf33-cf058b228953" />
 <img width="1365" height="637" alt="image" src="https://github.com/user-attachments/assets/0adb56fc-1fc6-4343-a6f1-afca4f366ffb" />
 <img width="1360" height="641" alt="image" src="https://github.com/user-attachments/assets/c5b64363-f11a-40ed-93ce-2d178a800e20" />
+<img width="1360" height="635" alt="image" src="https://github.com/user-attachments/assets/115a82ec-d7d3-4db2-bc46-088cf2584c8d" />
 <img width="1366" height="625" alt="image" src="https://github.com/user-attachments/assets/39db03ef-91e8-4068-927b-7130cdfe95b5" />
 <img width="1361" height="561" alt="image" src="https://github.com/user-attachments/assets/42898cf8-9011-40ee-a29d-cbbccb446068" />
 <img width="1327" height="648" alt="image" src="https://github.com/user-attachments/assets/86f93b93-d1a9-414d-ade8-eebe8b286438" />
+<img width="1360" height="650" alt="image" src="https://github.com/user-attachments/assets/e07a75df-d23a-44e1-9744-2c56ba7f3b47" />
 
 
 🚀 Features
