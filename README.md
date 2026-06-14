@@ -22,28 +22,43 @@ This project is built using a no-code/low-code platform (Lovable) and focuses on
 
 
 🚀 Features
+
 👨‍⚕️ Browse available doctors
+
 📅 Book online appointments
+
 🏥 View healthcare services
+
 📱 Responsive design (mobile + desktop)
+
 🔐 Secure user interaction flow
+
 ⚡ Fast and simple UI/UX
-🛠️ Tech Stack
-Lovable (No-code platform)
+
 React-based frontend (generated)
+
 Web APIs integration (if used)
+
 Hosting: Lovable deployment
+
 🎯 Purpose of Project
 
 The goal of Doctor Hubb is to reduce the gap between patients and doctors by providing a digital platform where healthcare services can be accessed easily from anywhere.
 
 📂 Project Structure
+
 Since this project is generated  the structure is managed automatically, but generally includes:
 
 Home Page
+
 Doctor Listing Page
+
 Appointment Booking System
+
 User Dashboard
+
 👨‍💻 Developer
+
 Created using Lovable AI Platform
+
 Custom project: Doctor Hubb
